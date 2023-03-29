@@ -6,4 +6,4 @@ C
 C
 C
 Chalapathi Dummy is say
-Hai Dummy what i have to say
+Hello Dummy what i have to say
