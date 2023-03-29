@@ -1,0 +1,10 @@
+Bclear
+:wq
+
+C
+C
+C
+C
+Chalapathi Dummy is say
+C
+
